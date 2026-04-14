@@ -1,0 +1,16 @@
+id,titulo,autor_id,likes,comentarios,compartilhamentos,hashtags,duracao_seg
+V1,Treino de 10 minutos em casa,3,85000,1200,4500,"#fitness,#treino,#saude",60
+V2,Receita de bolo fit,3,42000,980,2100,"#fitness,#receita,#saudavel",45
+V3,Dance challenge viral,1,920000,15000,87000,"#dance,#viral,#challenge",15
+V4,Meme do dia,2,310000,8900,45000,"#humor,#meme,#viral",10
+V5,Review do novo iPhone,4,28000,3400,1200,"#tech,#games,#review",90
+V6,Outfit do dia,5,540000,12000,38000,"#moda,#fashion,#ootd",20
+V7,Destino secreto Europa,7,180000,4500,22000,"#viagem,#travel,#europa",60
+V8,Música nova - clipe,8,95000,6700,18000,"#musica,#novidade,#clipe",180
+V9,Como aprender programação,9,67000,5200,9800,"#educacao,#tech,#programacao",120
+V10,Reação engraçada,2,480000,11000,62000,"#humor,#viral,#reacao",12
+V11,Rotina matinal,5,320000,7800,28000,"#lifestyle,#moda,#rotina",45
+V12,Tutorial maquiagem,5,290000,9100,31000,"#beleza,#maquiagem,#tutorial",90
+V13,Desafio 30 dias fit,3,115000,3300,8900,"#fitness,#desafio,#saude",30
+V14,Pegadinha épica,2,670000,18000,94000,"#humor,#pegadinha,#viral",20
+V15,Dança trending,1,1100000,22000,150000,"#dance,#viral,#trending",15

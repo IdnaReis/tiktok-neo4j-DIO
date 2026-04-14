@@ -1,0 +1,11 @@
+id,nome,username,seguidores,seguindo,bio,verificado
+1,Ana Lima,@analima,2500000,180,Dança e lifestyle,true
+2,Bruno Costa,@brunocosta,980000,320,Humor e memes,true
+3,Carla Mendes,@carlamendes,450000,210,Fitness e saúde,false
+4,Diego Rocha,@diegorocha,120000,540,Games e tecnologia,false
+5,Elena Souza,@elenasouza,3800000,90,Moda e beleza,true
+6,Felipe Nunes,@felipenunes,75000,430,Culinária,false
+7,Gabi Torres,@gabitores,1200000,260,Viagens,true
+8,Henrique Dias,@henriquedias,55000,380,Música,false
+9,Isabela Farias,@isabelafarias,890000,150,Educação,false
+10,João Pedro,@joaopedro,4200000,70,Entretenimento,true
